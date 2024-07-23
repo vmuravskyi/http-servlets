@@ -1,4 +1,4 @@
-package com.web.javanetwork.l13_http_client;
+package com.http.example.client;
 
 import java.io.IOException;
 import java.net.URI;
