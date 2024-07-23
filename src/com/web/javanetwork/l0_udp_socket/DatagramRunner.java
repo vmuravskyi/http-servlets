@@ -1,4 +1,4 @@
-package com.http.javanetwork.l0_udp_socket;
+package com.web.javanetwork.l0_udp_socket;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

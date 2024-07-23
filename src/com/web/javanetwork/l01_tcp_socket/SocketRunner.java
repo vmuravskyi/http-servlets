@@ -1,4 +1,4 @@
-package com.http.javanetwork.l01_tcp_socket;
+package com.web.javanetwork.l01_tcp_socket;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

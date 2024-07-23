@@ -1,0 +1,31 @@
+{
+  "id": "request-id",
+  "start-row": {
+    "method": "GET",
+    "URL": "www.google.com",
+    "version": 1.1
+  },
+  "headers": {
+    "header": [
+      {
+        "name": "content-type",
+        "value": "text/html"
+      },
+      {
+        "name": "accept",
+        "value": "application/json"
+      },
+      {
+        "name": "Cache-Control",
+        "value": "public, immutable, max-age=31536000"
+      },
+      {
+        "name": "Content-Length",
+        "value": 6407
+      }
+    ],
+    "body": {
+      "type": "text/plain"
+    }
+  }
+}
