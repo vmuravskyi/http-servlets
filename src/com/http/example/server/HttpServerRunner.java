@@ -3,7 +3,7 @@ package com.http.example.server;
 public class HttpServerRunner {
 
     public static void main(String[] args) {
-        HttpServer httpServer = new HttpServer(12345);
+        HttpServer httpServer = new HttpServer(12345, 10);
         httpServer.run();
     }
 
